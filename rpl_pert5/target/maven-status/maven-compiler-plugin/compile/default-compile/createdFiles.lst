@@ -1,0 +1,5 @@
+com\mycompany\rpl_pert5\model\ModelMahasiswa.class
+com\mycompany\rpl_pert5\Rpl_pert5.class
+com\mycompany\rpl_pert5\repository\MahasiswaRepository.class
+com\mycompany\rpl_pert5\controller\MahasiswaController.class
+com\mycompany\rpl_pert5\repository\JpaaRepository.class
